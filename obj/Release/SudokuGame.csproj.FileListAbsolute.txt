@@ -1,0 +1,15 @@
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\bin\Release\SudokuGame.exe.config
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\bin\Release\SudokuGame.exe
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\bin\Release\SudokuGame.pdb
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\SudokuGame.csprojAssemblyReference.cache
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\MainWindow.g.cs
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\App.g.cs
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\SudokuGame_MarkupCompile.cache
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\SudokuGame_MarkupCompile.lref
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\MainWindow.baml
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\SudokuGame.g.resources
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\SudokuGame.Properties.Resources.resources
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\SudokuGame.csproj.GenerateResource.cache
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\SudokuGame.csproj.CoreCompileInputs.cache
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\SudokuGame.exe
+C:\Users\aamir\source\repos\Sudoku\SudokuGame\obj\Release\SudokuGame.pdb
